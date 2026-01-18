@@ -5,7 +5,7 @@
 A simple Powerball number generator built with HTML, CSS, and JavaScript.  
 This project generates valid Powerball lottery numbers based on official game rules.
 
----
+
 
 ## Features
 
@@ -15,7 +15,7 @@ This project generates valid Powerball lottery numbers based on official game ru
 - Sorted white balls for readability
 - Easy-to-use button interface
 
----
+
 
 ## Technologies Used
 
@@ -23,7 +23,7 @@ This project generates valid Powerball lottery numbers based on official game ru
 - CSS
 - JavaScript
 
----
+
 
 ## How to Use
 
@@ -31,13 +31,13 @@ This project generates valid Powerball lottery numbers based on official game ru
 2. Click the **Generate** button.
 3. View your Powerball numbers on the screen.
 
----
+
 
 ## Example Output
 
 White Balls: 4, 12, 23, 41, 67 | Powerball: 9
 
----
+
 
 ## Future Improvements
 
@@ -47,7 +47,7 @@ White Balls: 4, 12, 23, 41, 67 | Powerball: 9
 - Mobile styling
 - Mega Millions mode
 
----
+
 
 ## Author
 
